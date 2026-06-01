@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Привет! Мой новый проект работает!");
+    System.out.println("Привет! Мой новый проект работает!"); 
     }
 }
